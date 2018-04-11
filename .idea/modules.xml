@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/six.iml" filepath="$PROJECT_DIR$/six.iml" />
+      <module fileurl="file://F:\AndroidStudioDemo\sixteam\app\app.iml" filepath="F:\AndroidStudioDemo\sixteam\app\app.iml" />
+      <module fileurl="file://F:\AndroidStudioDemo\sixteam\six.iml" filepath="F:\AndroidStudioDemo\sixteam\six.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sixteam.iml" filepath="$PROJECT_DIR$/.idea/sixteam.iml" />
     </modules>
   </component>
 </project>
