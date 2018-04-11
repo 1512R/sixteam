@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("tag","冯国旗");
         Log.e("tag","wang");
         Log.e("tag","=====");
+        Log.e("tag","++++++");
     }
 }
