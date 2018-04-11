@@ -5,8 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://F:\sixteam\app\app.iml" filepath="F:\sixteam\app\app.iml" />
       <module fileurl="file://F:\AndroidStudioDemo\sixteam\six.iml" filepath="F:\AndroidStudioDemo\sixteam\six.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/sixteam.iml" filepath="$PROJECT_DIR$/.idea/sixteam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sixteam.iml" filepath="$PROJECT_DIR$/sixteam.iml" />
       <module fileurl="file://F:\sixteam\.idea\sixteam.iml" filepath="F:\sixteam\.idea\sixteam.iml" />
+      <module fileurl="file://D:\android\projects\sixteam\.idea\sixteam.iml" filepath="D:\android\projects\sixteam\.idea\sixteam.iml" />
     </modules>
   </component>
 </project>
