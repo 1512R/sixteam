@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("tag","=====");
         Log.e("tag","++++++");
         Log.e("tag","1512r");
+        Log.e("tag","马冬梅没尔灭二米");
+
     }
 }
